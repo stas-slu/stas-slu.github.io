@@ -2,13 +2,14 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Experimenting with the Jekyll static site generator. No real purpose for this blog, don't event think any new posts will be published in the future. But, who knows...
+Experimenting with Jekyll static site generator framework. There is No real purpose for this blog, don't event think any new posts will be published in the future. But, who knows...
 
 ### One more thing...
 
-If you curious about Jekyll / GitHub pages system, you more than welcome to contact me via the mail or any other social means listed below.
+If you curious about Jekyll / GitHub pages system, you more than welcome to contact me via  mail or any other social media listed below.
 
 ### Contact me
 
