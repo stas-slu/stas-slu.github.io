@@ -4,8 +4,9 @@ title: "My blog is up and running!"
 published: true
 ---
 
-My first post in the blog using [Jekyll](http://jekyllrb.com/) hosted on [GitHub pages](https://pages.github.com/). It's pretty awesome blogging system.
-Very lightweight, doesn't need separate hosting (uses GitHub hosting), no DB , no CMS and other heavyweight features. Just write (with Markdown), and post.
+My first blog post with [Jekyll](http://jekyllrb.com/) static site generator hosted on [GitHub pages](https://pages.github.com/). It's pretty awesome blogging system.
+Very lightweight, doesn't need separate hosting (uses GitHub hosting, for free), no DB , no CMS and no other heavyweight features. Just
+write (with [Markdown](http://daringfireball.net/projects/markdown/)) and post your thoughts.
 
 To edit the content I use [prose.io/](http://prose.io/) and Jekyll template [Jekyll Now](https://github.com/barryclark/jekyll-now) as a starting point for the blog structure.
 
