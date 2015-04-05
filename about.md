@@ -12,4 +12,4 @@ If you curious about Jekyll / GitHub pages system, you more than welcome to cont
 
 ### Contact me
 
-[stas.slutsker@gmal.com](mailto:stas.slutsker@gmal.com)
+[stas.slutsker (at) gmail (dot )com](mailto:stas.slutsker (at) gmail (dot )com)
